@@ -197,7 +197,8 @@ A firewall is like a **security guard at a building’s entrance**:
 * Lets in only authorized visitors
 * Keeps out troublemakers
 
-![image](https://www.researchgate.net/publication/333654196/figure/fig2/AS:767163430338561@1559917423381/How-Firewall-works-9.png)
+![image](http://www.researchgate.net/publication/333654196/figure/fig2/AS:767163430338561@1559917423381/How-Firewall-works-9.png)
+
 <br><br>
 ---
 
