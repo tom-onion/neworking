@@ -330,4 +330,4 @@ Think of a NIC as your device’s **network passport and translator**:
 
 ---
 
-![image]([https://infinitydomainhosting.com/kb/what-is-a-nat-in-networking/](https://infinitydomainhosting.com/kb/wp-content/uploads/2024/01/What-Is-A-NAT-In-Networking.jpg))
+![image](https://resource.fs.com/mall/generalImg/HDUobq9gtof9RExpKF2czXygnkb.jpeg)
