@@ -1,4 +1,4 @@
-# <span>What is a network? (LAN, WAN, internet)</span>
+# <span style="color: #4493f6;">What is a network? (LAN, WAN, internet)</span>
 
 A **network** is a group of interconnected devices (such as computers, servers, phones, and printers) that can communicate and share resources (like files, internet access, or printers). Networks can vary in size and scope, and they are typically classified into different types based on their scale and purpose. The three most common types are:
 
